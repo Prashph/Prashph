@@ -36,8 +36,7 @@
 #     print(f"the squareroot of {n} is {n**0.5}")
 #     return
 
-# d = number(9)
-# print(d)
+# print(number(9))
 
 
 # def is_prime(num):
@@ -70,9 +69,9 @@
 # a = list(map(even_odd,names))
 # print(a)
 
-def number(i):
-  for i in range(20):
-    if (i%2 ==0):
-      return
-print(range)
+# def number(n):
+#   for i in range(20):
+#     if (i%2 ==0):
+#       return
+# print(list(number(n)))
     
